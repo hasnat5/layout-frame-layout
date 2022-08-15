@@ -15,6 +15,6 @@
     <View
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:background="@color/white"
+        android:background="@color/white"/>
 
 </FrameLayout>
