@@ -9,6 +9,11 @@
             android:layout_column="1"
             android:text="Open..."
             android:padding="3dp"/>
+
+        <TextView
+            android:text="Ctrl-O"
+            android:gravity="right"
+            android:padding="3dp"/>
     </TableRow>
 
     <TableRow android:background="#22ff">
@@ -50,7 +55,7 @@
 
     <TableRow android:background="#ffff00">
         <TextView
-            android:text="Import..."
+            android:text="X"
             android:padding="3dp"/>
         <TextView
             android:text="Export..."
